@@ -3,7 +3,6 @@
 Bu proje, URL'leri kısaltmak için bir web uygulamasıdır. Next.js frontend ve Bun.js backend kullanılarak geliştirilmiştir.
 
 ![Proje Görüntüsü](https://i.imgur.com/XWPpAN6.png)
-![Proje Görüntüsü](https://i.imgur.com/DYZs2uT.png) 
 
 ## Özellikler
 
